@@ -1,0 +1,32 @@
+/*CSS File Author: Chaithra L M*/
+
+.section1{
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: space-evenly;
+}
+
+.section2{
+    width: 100%;
+    background-color:black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.redbox{
+    height: 200px;
+    width: 15%;
+    background-color: red;
+
+}
+
+.graybox{
+    height: 200px;
+    width: 20%;
+    background-color:gray;
+    display: inline-block;
+    margin-left: 50px;
+}
